@@ -69,7 +69,7 @@ Automatically scrolls to the top on route changes.
 
 
 ## 🔍 Project Structure
-![P12 structure](https://github.com/user-attachments/assets/8134efed-c461-45b1-868b-0332c2fdcd3d)
+
 
 
 ## 💚 Creator
