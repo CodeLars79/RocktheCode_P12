@@ -21,7 +21,7 @@
 ## ⚙️ Tech Stack
 - Frontend: React, React Router
 - Map API: Google Maps JavaScript API
-- Styling: CSS Modules
+- Styling: CSS 
 - Icons & Images: Custom assets in /assets/
 
 
