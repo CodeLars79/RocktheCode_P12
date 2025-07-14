@@ -27,9 +27,27 @@
 
 ## 🛠️ Installation
 - Clone the repository
-```sh  git clone https://github.com/your-username/finding-gaudi.git
-cd finding-gaudi```
+  ```sh
+  git clone https://github.com/CodeLars79/RocktheCode_P12.git
+cd finding-gaudi
+  ```
 
+ - Install dependencies
+  ```sh
+  npm install
+  ```
+
+- Set up environment variables
+- Create a .env file in the root
+- Add your Google Maps API key:
+  ```sh
+  VITE_API_KEY=your_google_maps_api_key_here
+  ```  
+
+- Start the development server
+  ```sh
+  npm run dev
+  ```
 
 ## 🧩 React Hooks
 ### useState
@@ -50,9 +68,7 @@ References the Google Maps container div to mount the interactive map.
 ### Custom Hook: useScrollToTop
 Automatically scrolls to the top on route changes.
 
-  ```sh
-  npm install npm@latest -g
-  ```
+
 
 
 ## 🔍 Project Structure
