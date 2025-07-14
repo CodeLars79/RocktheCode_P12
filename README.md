@@ -26,25 +26,24 @@
 
 
 ## 🛠️ Installation
-- Clone the repository
+#### Clone the repository
   ```sh
   git clone https://github.com/CodeLars79/RocktheCode_P12.git
-cd finding-gaudi
   ```
 
- - Install dependencies
+ #### Install dependencies
   ```sh
   npm install
   ```
 
-- Set up environment variables
+#### Set up environment variables
 - Create a .env file in the root
 - Add your Google Maps API key:
   ```sh
   VITE_API_KEY=your_google_maps_api_key_here
   ```  
 
-- Start the development server
+#### Start the development server
   ```sh
   npm run dev
   ```
