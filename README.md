@@ -68,7 +68,7 @@ Automatically scrolls to the top on route changes.
 
 
 
-## 🔍 Project Structure
+
 
 
 
