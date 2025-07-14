@@ -24,6 +24,13 @@
 - Styling: CSS 
 - Icons & Images: Custom assets in /assets/
 
+
+## 🛠️ Installation
+- Clone the repository
+```sh  git clone https://github.com/your-username/finding-gaudi.git
+cd finding-gaudi```
+
+
 ## 🧩 React Hooks
 ### useState
 Used to manage dynamic state, e.g.: Search input and sorting in the Buildings page, Quiz answers and filters
