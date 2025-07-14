@@ -26,9 +26,7 @@
 
 ## 🧩 React Hooks
 ### useState
-Used to manage dynamic state, e.g.:
-Search input and sorting in the Buildings page
-Quiz answers and filters
+Used to manage dynamic state, e.g.: Search input and sorting in the Buildings page, Quiz answers and filters
 
 ### useEffect
 Handles side effects like loading the Google Map once on component mount.
@@ -49,8 +47,8 @@ Automatically scrolls to the top on route changes.
 ## 🔍 Project Structure
 
 
-## 🧑‍🎨 Creator
-- Lars Sorensen, Architect & Web Developer
+## 💚 Creator
+- Lars Sorensen
 - Built as a tribute to the poetry of Gaudí’s architecture
 
 ## 📄 License
