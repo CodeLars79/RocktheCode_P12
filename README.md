@@ -50,8 +50,8 @@ Automatically scrolls to the top on route changes.
 
 
 ## 🧑‍🎨 Creator
-Lars Sorensen, Architect & Web Developer
-Built as a tribute to the poetry of Gaudí’s architecture
+- Lars Sorensen, Architect & Web Developer
+- Built as a tribute to the poetry of Gaudí’s architecture
 
 ## 📄 License
 This project is open-source and available for non-commercial use and educational purposes.
