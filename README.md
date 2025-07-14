@@ -36,9 +36,7 @@
   npm install
   ```
 
-#### Set up environment variables
-- Create a .env file in the root
-- Add your Google Maps API key:
+#### Set up environment variables (create an .env file), add your Google Maps API key
   ```sh
   VITE_API_KEY=your_google_maps_api_key_here
   ```  
