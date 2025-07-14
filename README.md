@@ -43,6 +43,10 @@ References the Google Maps container div to mount the interactive map.
 ### Custom Hook: useScrollToTop
 Automatically scrolls to the top on route changes.
 
+  ```sh
+  npm install npm@latest -g
+  ```
+
 
 ## 🔍 Project Structure
 
