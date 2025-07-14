@@ -46,6 +46,29 @@ Automatically scrolls to the top on route changes.
 
 ## 🔍 Project Structure
 
+src/
+│
+├── components/ # Reusable UI components
+│ ├── Header, Footer, Card, Button, etc.
+│
+├── pages/ # Route-based views
+│ ├── Home/
+│ ├── Map/
+│ ├── Buildings/
+│ ├── Quiz/
+│ ├── About/
+│ └── NotFound/
+│
+├── data/ # Static content & configs
+│ ├── mapLocations.js
+│ ├── mapStyles.js
+│ └── quizData.js
+│
+├── utils/ # Utility functions
+│ └── quizComments.js
+│
+└── App.jsx # App layout and routing
+
 
 ## 💚 Creator
 - Lars Sorensen
