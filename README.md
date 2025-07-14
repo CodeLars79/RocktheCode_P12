@@ -24,5 +24,34 @@
 - Styling: CSS 
 - Icons & Images: Custom assets in /assets/
 
+## 🧩 React Hooks
+### useState
+Used to manage dynamic state, e.g.:
+Search input and sorting in the Buildings page
+Quiz answers and filters
+
+### useEffect
+Handles side effects like loading the Google Map once on component mount.
+
+### useReducer
+Provides structured state management for the quiz logic, including scoring and progression.
+
+### useMemo
+Used to memoize a shuffled subset of quiz questions.
+
+### useRef
+References the Google Maps container div to mount the interactive map.
+
+### Custom Hook: useScrollToTop
+Automatically scrolls to the top on route changes.
+
 
 ## 🔍 Project Structure
+
+
+## 🧑‍🎨 Creator
+Lars Sorensen, Architect & Web Developer
+Built as a tribute to the poetry of Gaudí’s architecture
+
+## 📄 License
+This project is open-source and available for non-commercial use and educational purposes.
