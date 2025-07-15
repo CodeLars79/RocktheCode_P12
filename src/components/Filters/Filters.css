@@ -1,0 +1,51 @@
+.controls-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 1rem;
+}
+
+.controls {
+  display: flex;
+  gap: 1rem;
+  max-width: 1000px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.controls input {
+  padding: 0.5rem;
+  font-size: 1rem;
+  flex: 1;
+  max-width: 400px;
+  border-radius: var(--radius-m);
+  border: var(--color-muted) 1px solid;
+  font-family: var(--font-family-base);
+  background-color: var(--color-background);
+}
+
+.controls select {
+  padding: 0.5rem;
+  font-size: 1rem;
+  flex: 1;
+  max-width: 200px;
+  border-radius: var(--radius-m);
+  border: var(--color-muted) 1px solid;
+  font-family: var(--font-family-base);
+  background-color: var(--color-background);
+}
+
+@media (max-width: 768px) {
+  .controls {
+    flex-direction: column;
+  }
+
+  .controls input {
+    width: 300px;
+  }
+
+  .controls select {
+    width: 300px;
+  }
+}
