@@ -14,7 +14,7 @@
 - 🗺️ Interactive Map: Powered by Google Maps, explore key locations of Gaudí’s works across Catalonia.
 - 🏛️ Architecture Explorer: Browse a sortable, searchable list of major buildings with images and external resources.
 - ❓ Quiz Section: Test your knowledge of Gaudí’s life and work.
-- 📜 About Page: A personal reflection on the influence of Gaudí from the creator.
+- 📜 About Page: A personal reflection on the influence of Gaudí.
 - 📱 Responsive Design: Optimized for mobile, tablet, and desktop.
 
 
